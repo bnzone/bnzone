@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I am Igor 👋
 
-<!--
-**bnzone/bnzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 My [website/blog](https://igorshevchenko.com) 
+<br>
+📝 My [resume](https://drive.google.com/file/d/1s5-DYU6XQ_rP12TdaKA5gw_2qeKI7JAy/view?usp=sharing) 
+<br>
+📨 Message me on [LinkedIn](https://www.linkedin.com/in/igorshevchenkowork/)
+<br>
+📬 Reach me via email: <hello.igorshevchenko@gmail.com>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
