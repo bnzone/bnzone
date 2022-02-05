@@ -8,6 +8,7 @@
 <br>
 📬 Reach me via email: <hello.igorshevchenko@gmail.com>
 <br>
+![](https://komarev.com/ghpvc/?username=bnzone&style=flat-square)
 <br>
 
 
